@@ -3,7 +3,7 @@
 An AutoHotkey script that automatically focuses Chrome's address bar when you switch back to a new tab. No more typing into the void or wasting time clicking to start typing.
 
 ## Why?
-Chrome unfocuses the omnibox when you switch windows/tabs (or leave Chroem). This script fixes that annoying behavior specifically for new tabs.
+Chrome unfocuses the omnibox when you switch windows, tabs, or leave Chrome. This script fixes that annoying behavior specifically for new tabs.
 
 ## Install
 1. [Install AutoHotkey](https://www.autohotkey.com/) (v1.1+)
